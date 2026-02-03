@@ -67,3 +67,6 @@ Each parking slot contains the following fields:
 
 ## Demo Video
 👉 https://your-demo-video-link-here
+
+## GitHub Repo link
+👉 https://github.com/sanu1242/smart-park-finder
