@@ -62,3 +62,8 @@ Each parking slot contains the following fields:
 
 ---
 
+## Live Demo
+👉 https://smart-park-finder.vercel.app/
+
+## Demo Video
+👉 https://your-demo-video-link-here
